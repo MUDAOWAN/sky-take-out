@@ -8,5 +8,4 @@ sky:
     password: 111111
   alioss:
     endpoint: oss-cn-hangzhou.aliyuncs.com
-
     bucket-name: votally-cq
