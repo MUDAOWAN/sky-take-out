@@ -8,6 +8,6 @@ sky:
     password: 111111
   alioss:
     endpoint: oss-cn-hangzhou.aliyuncs.com
-    access-key-id: LTAI5tRFeFjqEhyH4ggqw3Y7
-    access-key-secret: ywIt365yUTlzwF0NyUbXxFXA0KCsEt
+    access-key-id: ${ALIBABA_ACCESS_KEY_ID:}
+    access-key-secret: ${ALIBABA_ACCESS_KEY_SECRET:}
     bucket-name: votally-cq
