@@ -1,7 +1,6 @@
 **/target/
 # 忽略开发配置文件
-/sky-take-out/sky-server/src/main/resources/application-dev.yml
-
+/sky-server/src/main/resources/application-dev.yml
 .idea
 *.iml
 *.class
